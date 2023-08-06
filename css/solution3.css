@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    height: 1000px;
+}
+/*******Start Navbar*********/
+.navbar {
+    background-color: grey;
+    height: 70px;
+}
+.h1 {
+    color: black;
+}
+.nav-link {
+    background-color: grey;
+    color: #000;
+    text-align: center;
+    margin-top: 2px white;
+}
+
+
+.navbar .navbar-nav .nav-link {
+    color: white;
+}
+.navbar .navbar-nav .nav-link .active ,
+.navbar .navbar-nav .nav-link:focus ,
+.navbar .navbar-nav .nav-link:hover {
+    color: #090a0a;
+}
+
+
+.navbar-toggler {
+    color: white;
+    font-size: 25px;
+    border-color: white ;
+} 
+ .navbar-toggler:focus  ,
+.form-control{
+    box-shadow: none;
+}
+/*******End Navbar*********/
+
+
+/*******Start Home*********/
+.Menu {
+    text-align: center;
+    color: #000;
+}
+
+.babo {
+    background-color: grey;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border: 2px solid #eee;
+
+}
+
+.h3 {
+    text-align: center;
+    color: #000;
+}
+/*******End Home*********/
